@@ -40,7 +40,7 @@ const CompareTable: React.FC<CompareTableProps> = ({ products }) => {
 
     return (
         <div className="w-full mt-10 overflow-hidden">
-            <h1 className="text-2xl font-bold mb-4">Comparision</h1>
+            <h1 className="text-2xl font-bold mb-4">Comparison</h1>
             <div className="overflow-x-auto">
                 <table className="w-full min-w-max bg-white rounded-2xl shadow border-separate border-spacing-0 text-[15px]">
                     <thead>
