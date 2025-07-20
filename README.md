@@ -52,5 +52,5 @@ Compare up to 3 products, filter/search the catalog, and view all features in a 
 - HTML5, CSS3 (no backend, no API)
 
 
-- Built by Kushagra Singh
-- [Live demo](https://)
+## Built by Kushagra Singh
+## [Live demo](https://product-comparision.netlify.app/)
